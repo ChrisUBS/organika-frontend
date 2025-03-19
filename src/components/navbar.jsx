@@ -51,11 +51,11 @@ function Navbar() {
                                 ☰ About
                             </Link>
                         </li>
-                        <li className="nav-item">
+                        {/* <li className="nav-item">
                             <Link className="nav-link text-white" to="/admin">
                                 🔑 Admin
                             </Link>
-                        </li>
+                        </li> */}
                     </ul>
                     <ul className="navbar-nav ms-auto">
                         <li className="nav-item">
